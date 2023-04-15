@@ -3,10 +3,10 @@
 
 <h1 align="center">CaptfEncoder</h1>
 
-[![GitHub release](https://img.shields.io/github/release/guyoung/CaptfEncoder.svg)](https://github.com/guyoung/CaptfEncoder/releases/latest)
+[![GitHub release](https://img.shields.io/github/release/guyoung/CaptfEncoder.svg)](https://github.com/mwb0350/CaptfEncoder/releases/latest)
 
 
-[English](https://github.com/guyoung/CaptfEncoder/blob/master/README.md) | [中文](https://github.com/guyoung/CaptfEncoder/blob/master/README-zh.md)
+[English](https://github.com/mwb0350/CaptfEncoder/blob/master/README.md) | [中文](https://github.com/mwb0350/CaptfEncoder/blob/master/README-zh.md)
 
 
 </div>
