@@ -159,8 +159,4 @@ Centos 7 screenshot
  * <https://github.com/guyoung/CaptfEncoder/releases>
  * Baidu network disk https://pan.baidu.com/s/1q2N1w44bvYIXLe5gCI5oKA  Password: k5b9
 
-------------------------------------------------
-
-**WeChat official account for latest news**
-
-![WeChat official account](https://mmbiz.qlogo.cn/mmbiz_jpg/5IMiaY073fa7zxH6f5q5EticlwZPsYQtUnpYHspNiczmNyjtCXnR7LAmvpstK4EycfzIQkciboLh1qtWRcCibEPuDhA/0?wx_fmt=jpeg)
+---------------------------------------------
