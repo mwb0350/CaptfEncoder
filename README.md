@@ -1,6 +1,5 @@
 <div align="center">
 
-[![CaptfEncoder Logo](https://github.com/guyoung/CaptfEncoder/raw/master/images/captfencoder-log-1.png)](https://github.com/guyoung/CaptfEncoder)
 
 <h1 align="center">CaptfEncoder</h1>
 
