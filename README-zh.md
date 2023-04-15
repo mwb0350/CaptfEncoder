@@ -4,10 +4,10 @@
 
 <h1 align="center">CaptfEncoder</h1>
 
-[![GitHub release](https://img.shields.io/github/release/guyoung/CaptfEncoder.svg)](https://github.com/guyoung/CaptfEncoder/releases/latest)
+[![GitHub release](https://img.shields.io/github/release/guyoung/CaptfEncoder.svg)](https://github.com/mwb0350/CaptfEncoder/releases/latest)
 
 
-[English](https://github.com/guyoung/CaptfEncoder/blob/master/README.md) | [中文](https://github.com/guyoung/CaptfEncoder/blob/master/README-zh.md)
+[English](https://github.com/mwb0350/CaptfEncoder/blob/master/README.md) | [中文](https://github.com/mwb0350/CaptfEncoder/blob/master/README-zh.md)
 
 
 </div>
@@ -160,10 +160,3 @@ Centos 7 运行截图
 
  * <https://github.com/guyoung/CaptfEncoder/releases>
  * 百度网盘 <https://pan.baidu.com/s/1q2N1w44bvYIXLe5gCI5oKA> 密码：k5b9
-
-
-------------------------------------------------
-
-**关注微信公众号，获取软件最新消息**
-
-![微信公众号](https://mmbiz.qlogo.cn/mmbiz_jpg/5IMiaY073fa7zxH6f5q5EticlwZPsYQtUnpYHspNiczmNyjtCXnR7LAmvpstK4EycfzIQkciboLh1qtWRcCibEPuDhA/0?wx_fmt=jpeg)
